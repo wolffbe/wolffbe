@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there,
 
-<!--
-**wolffbe/wolffbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thank you for visiting my GitHub! For a quick introduction about myself, feel free to check out my [website](https://www.bjpw.me/). For a detailed overview of my professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
 
-Here are some ideas to get you started:
+Here are some repositories from different IT domains that I would like to share with you:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Domain   | Technologies | Project | Highlight |
+|----------|--------------|---------|-----------|
+| OOP      | Java, Spring Boot, Maven, JUnit, Mockito | [Mini text editor](https://github.com/wolffbe/minitexteditor) | 93% test coverage |
+| Web      | Python, SQL, Docker | [Healthshare.io](https://github.com/wolffbe) | Built in two days and merged with [RemedyMatch](https://github.com/remedyMatch/) |
+| Cloud    | AWS, Kubernetes, Go | [Crossplane AWS Provider](https://github.com/crossplane-contrib/provider-aws) | [Merged pull request](https://github.com/crossplane-contrib/provider-aws/pull/469) |
+| Mobile   | Android, Kotlin | Rou4U | Google Maps integration |
+
+Thank you for your time and consideration!
+
+Best,  
+Benedict
