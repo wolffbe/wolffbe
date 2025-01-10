@@ -1,8 +1,6 @@
-### Hi there,
+Thank you for visiting my GitHub! For a quick introduction about myself, I invite you to visit my [website](https://www.bjpw.me/). For a detailed overview of my professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
 
-### thank you for visiting my GitHub! For a quick introduction about myself, feel free to check out my [website](https://www.bjpw.me/). For a detailed overview of my professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
-
-### Here are some repositories from different IT domains that I would like to share with you:
+Here are some repositories from a broad range of IT domains that I have worked on:
 
 | Domain   | Technologies | Project | Highlight |
 |----------|--------------|---------|-----------|
@@ -10,8 +8,3 @@
 | Web      | Python, SQL, Docker | [Healthshare.io](https://github.com/wolffbe/healthshareio) | Built in two days and merged with [RemedyMatch](https://github.com/remedyMatch/) |
 | Cloud    | AWS, Kubernetes, Go | [Crossplane AWS Provider](https://github.com/crossplane-contrib/provider-aws) | [Merged pull request](https://github.com/crossplane-contrib/provider-aws/pull/469) |
 | Mobile   | Android, Kotlin | Rou4U | Google Maps integration |
-
-### Thank you for your time and consideration!
-
-### Best,  
-### Benedict
