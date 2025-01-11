@@ -1,6 +1,6 @@
 Thank you for visiting my GitHub! For a quick introduction about myself, I invite you to visit my [website](https://www.bjpw.me/). For a detailed overview of my work and professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
 
-Here are two repositories from a selection of projects that I can publicly share:
+Here are two repositories from projects that I can publicly share:
 
 | Project | Domain   | Technologies | Highlight |
 |---------|----------|--------------|-----------|
