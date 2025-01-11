@@ -1,10 +1,8 @@
-Thank you for visiting my GitHub! For a quick introduction about myself, I invite you to visit my [website](https://www.bjpw.me/). For a detailed overview of my professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
+Thank you for visiting my GitHub! For a quick introduction about myself, I invite you to visit my [website](https://www.bjpw.me/). For a detailed overview of my work and professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
 
-Here are some repositories from a broad range of IT domains that I have worked on:
+Here are two repositories from a selection of projects that I can publicly share:
 
-| Domain   | Technologies | Project | Highlight |
-|----------|--------------|---------|-----------|
-| OOP      | Java, Spring Boot, Maven, JUnit, Mockito | [Mini text editor](https://github.com/wolffbe/minitexteditor) | 93% test coverage |
-| Web      | Python, SQL, Docker | [Healthshare.io](https://github.com/wolffbe/healthshareio) | Built in two days and merged with [RemedyMatch](https://github.com/remedyMatch/) |
-| Cloud    | AWS, Kubernetes, Go | [Crossplane AWS Provider](https://github.com/crossplane-contrib/provider-aws) | [Merged pull request](https://github.com/crossplane-contrib/provider-aws/pull/469) |
-| Mobile   | Android, Kotlin | Rou4U | Google Maps integration |
+| Project | Domain   | Technologies | Highlight |
+|---------|----------|--------------|-----------|
+| [Mini text editor](https://github.com/wolffbe/minitexteditor) (2024) | OOP      | Java, Spring Boot, Maven, JUnit, Mockito | Clean architecture and design documentation, 93% test coverage |
+| [Crossplane AWS Provider](https://github.com/crossplane-contrib/provider-aws) (2021) | Cloud    | AWS, Kubernetes, Go | Contributed with this [merged pull request](https://github.com/crossplane-contrib/provider-aws/pull/469) |
