@@ -5,6 +5,7 @@ Here are some public repositories that showcase my work and research interests:
 | Project | Domain   | Technologies | Highlight |
 |---------|----------|--------------|-----------|
 | [dmas-memory](https://github.com/wolffbe/dmas-memory) (2026) | AI agents | Python, Docker, OpenAI, Ollama, Prometheus, mem0, Graphiti, neo4j | Testbed for measuring token, CPU, disk, and network costs of distributed LLM-based multi-agent systems memory frameworks across different long-context network scenarios |
+| [protest-simulation](https://github.com/wolffbe/protest-simulation) (2026) | multi-agent systems | GAML, GAMA Platform | Multi-agent simulation of protest dynamics where BDI-controlled police pursue and arrest protesters while Q-Learning journalists optimize their positioning to document events without getting attacked |
 | [mlfs-book](https://github.com/wolffbe/mlfs-book) (2025) | MLOps | Python, Hopsworks AI Factory, XGBoost, GitHub Actions | Air quality model training feature data backfilling, training and daily inference |
 | [Wesee](https://github.com/wolffbe/wesee-n8n) (2025) | AI Automation | n8n, OpenAI Platform, Microsoft Graph API, Microsoft Outlook, Notion API | Configuration, error handling, and support for empty Notion databases |
 | [Mini text editor](https://github.com/wolffbe/minitexteditor) (2024) | OOP      | Java, Spring Boot, Maven, JUnit, Mockito | Clean architecture and design documentation, 93% test coverage |
