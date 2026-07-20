@@ -4,9 +4,9 @@ Here are some public repositories that showcase my work and research interests:
 
 | Project | Domain | Summary | Technologies | Outcome |
 |--------|--------|---------|--------------|---------|
-| [mlpab](https://github.com/wolffbe/mlpab) (2026) | Machine learning agents | Benchmark for coding agents operating feature, training and inference pipelines in MLOps platforms | Claude Code, Codex, Mistral, Databricks, Hopsworks | Master's thesis planned for publication at [IEEE ICA 2026](https://attend.ieee.org/ica-2026/) |
-| [dmas-memory](https://github.com/wolffbe/dmas-memory) (2026) | AI agent memory | Evaluation framework for assessing long-term memory retrieval and cost in distributed LLM-based multi-agent systems | Python, Docker, OpenAI, Ollama, mem0, graphiti, cognee, Langfuse, OTel | [Paper](https://arxiv.org/abs/2601.07978) accepted at [IEEE COMPSAC 2026](https://ieeecompsac.computer.org/2026/) |
-| [Wesee](https://github.com/wolffbe/wesee-n8n) (2025) | AI automation | Production-grade deal sourcing automation workflow for VCs | n8n, OpenAI Platform, Microsoft Graph API, Outlook, Notion API | Implemented at a European  healthtech VC |
+| [mlpab](https://github.com/wolffbe/mlpab) (2026) | Machine Learning Agents | Benchmark for coding agents operating feature, training and inference pipelines in MLOps platforms | Claude Code, Codex, Mistral, Databricks, Hopsworks | Master's thesis planned for publication at [IEEE ICA 2026](https://attend.ieee.org/ica-2026/) |
+| [dmas-memory](https://github.com/wolffbe/dmas-memory) (2026) | AI Agent Memory | Evaluation framework for assessing long-term memory retrieval and cost in distributed LLM-based multi-agent systems | Python, Docker, OpenAI, Ollama, mem0, graphiti, cognee, Langfuse, OTel | [Paper](https://arxiv.org/abs/2601.07978) accepted at [IEEE COMPSAC 2026](https://ieeecompsac.computer.org/2026/) |
+| [Wesee](https://github.com/wolffbe/wesee-n8n) (2025) | AI Automation | Production-grade deal sourcing automation workflow for VCs | n8n, OpenAI Platform, Microsoft Graph API, Outlook, Notion API | Implemented at a European  healthtech VC |
 | [Crossplane AWS Provider](https://github.com/crossplane-contrib/provider-aws) (2021) | Cloud | Implementation of the Amazon Web Services (AWS) Secrets Manager for the infrastructure-as-code platform Crossplane | AWS, Kubernetes, Go | Contributed with this [merged pull request](https://github.com/crossplane-contrib/provider-aws/pull/469) |
 
 I've also written fixes for some of my favourite childhood games:
