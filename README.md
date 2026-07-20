@@ -9,6 +9,11 @@ Here are some public repositories that showcase my work and research interests:
 | [Wesee](https://github.com/wolffbe/wesee-n8n) (2025) | AI automation | Production-grade deal sourcing automation workflow for VCs | n8n, OpenAI Platform, Microsoft Graph API, Outlook, Notion API | Implemented at a European  healthtech VC |
 | [Crossplane AWS Provider](https://github.com/crossplane-contrib/provider-aws) (2021) | Cloud | Implementation of the Amazon Web Services (AWS) Secrets Manager for the infrastructure-as-code platform Crossplane | AWS, Kubernetes, Go | Contributed with this [merged pull request](https://github.com/crossplane-contrib/provider-aws/pull/469) |
 
-I also share [gists](https://gist.github.com/wolffbe) from time to time.
+I've also written fixes for some of my favourite childhood games:
+
+- [Gary Gadget: Building Cars (Autos bauen mit Willy Werkel)](https://github.com/wolffbe/willywerkel) (Möllers & Bellinghausen Verlag GmbH, Windows, 1997)
+- [Helldorado](https://github.com/wolffbe/helldorado) (Spellbound Entertainment AG, Windows, 2007)
+- [Löwenzahn 1, Löwenzahn 2 and Löwenzahn 3](https://github.com/wolffbe/loewenzahn123) (Terzio Verlag, Windows, 1997/1999)
+- Harry Potter and the Philosopher's Stone (KnowWonder, Windows, 2001)
 
 Interested in working with me or sharing any feedback? Feel free to drop me a mail at [hi@bjpw.me](mailto:hi@bjpw.me).
