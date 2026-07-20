@@ -14,6 +14,6 @@ I've also written fixes for some of my favourite childhood games:
 - [Gary Gadget: Building Cars (Autos bauen mit Willy Werkel)](https://github.com/wolffbe/willywerkel) (Möllers & Bellinghausen Verlag GmbH, Windows, 1997)
 - [Helldorado](https://github.com/wolffbe/helldorado) (Spellbound Entertainment AG, Windows, 2007)
 - [Löwenzahn 1, Löwenzahn 2 and Löwenzahn 3](https://github.com/wolffbe/loewenzahn123) (Terzio Verlag, Windows, 1997/1999)
-- Harry Potter and the Philosopher's Stone (KnowWonder, Windows, 2001)
+- [Harry Potter and the Philosopher's Stone](https://github.com/wolffbe/hp1) (KnowWonder, Windows, 2001)
 
 Interested in working with me or sharing any feedback? Feel free to drop me a mail at [hi@bjpw.me](mailto:hi@bjpw.me).
