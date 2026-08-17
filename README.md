@@ -4,7 +4,7 @@ Here are some public repositories that showcase my work and research interests:
 
 | Project | Domain | Summary | Technologies | Outcome |
 |--------|--------|---------|--------------|---------|
-| [mlpab](https://github.com/wolffbe/mlpab) (2026) | Machine Learning Agents | Benchmark and meta-harness for coding agents operating feature, training and inference pipelines in ML platforms | Python, Claude Code, Mistral Vibe, Databricks, Hopsworks | Master's thesis planned for publication at [IEEE COMPSAC 2027](https://ieeecompsac.computer.org/2027/) |
+| [mlpab](https://github.com/wolffbe/mlpab) (2026) | Machine Learning Agents | Benchmark and meta-harness for coding agents operating ML platforms | Python, Claude Code, Mistral Vibe, Databricks, Hopsworks | Master's thesis planned for publication at [IEEE COMPSAC 2027](https://ieeecompsac.computer.org/2027/) |
 | [dmas-memory](https://github.com/wolffbe/dmas-memory) (2026) | AI Agent Memory | Internet of Agents prototype for assessing long-term memory retrieval and cost | Python, Docker, OpenAI, Ollama, mem0, graphiti, cognee, Langfuse, OTel | [Paper](https://arxiv.org/abs/2601.07978) accepted at [IEEE COMPSAC 2026](https://ieeecompsac.computer.org/2026/) |
 | [matcha](https://github.com/wolffbe/matcha) (2025) | Perceptual Hashing | Multimodal media matching service that identifies manipulated copies of images, audio and video | Python, FastAPI, Docker, nginx, Qdrant, pdqhash, chromaprint, OpenAI Whisper | Implemented at AI trust and safety company |
 | [wesee](https://github.com/wolffbe/wesee-n8n) (2025) | AI Automation | Production-grade deal sourcing automation workflow for VCs | n8n, OpenAI Platform, Microsoft Graph API, Outlook, Notion API | Implemented at a European  healthtech VC |
