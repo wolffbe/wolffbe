@@ -1,4 +1,4 @@
-Thank you for visiting my GitHub! For a quick introduction about myself, I invite you to visit my [website](https://www.bjpw.me/). For a detailed overview of my professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/).
+Thank you for visiting my GitHub! For a quick introduction about myself, I invite you to visit my [website](https://www.bjpw.me/). For a detailed overview of my professional achievements, please see my [LinkedIn](https://www.linkedin.com/in/wolffbe/). I also post about my product and market research on my [blog](https://medium.com/@wolffbe).
 
 Here are some public repositories that showcase my work and research interests:
 
